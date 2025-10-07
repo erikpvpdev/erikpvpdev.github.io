@@ -1,5 +1,4 @@
 # erikpvpdev.github.io
-# 🧱 Willkommen bei **ErikPvP-Dev**
 
 Hey 👋  
 Ich bin **Erik**, ein leidenschaftlicher **Minecraft-Mod-Entwickler**, der gerne neue Ideen, Biome, Strukturen und Blöcke in die Welt von Minecraft bringt.  
