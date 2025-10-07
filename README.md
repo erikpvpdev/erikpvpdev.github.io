@@ -15,7 +15,7 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 ---
 
 ## 🚀 Meine Projekte
-|----------|---------------|--------|
+
 | **Enderrite Mod** | Fügt ein neues Erz, ein eigenes Biom und neue Strukturen hinzu | 🔧 In Entwicklung |
 
 | **Titan Mod** | Minecraft PvP Mod Inspiriert vom Youtuber Projekt *Titan*| 🔧 In Entwicklung |
