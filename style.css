@@ -1,0 +1,149 @@
+/* ==== Grundlayout ==== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+  line-height: 1.6;
+}
+
+/* ==== Header ==== */
+header {
+  background-color: #2a0000;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.5);
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+}
+
+.logo {
+  color: #ff1a1a;
+  font-size: 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links a {
+  color: #ccc;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-links a:hover {
+  color: #ff4d4d;
+}
+
+/* ==== Hero Section ==== */
+#hero {
+  height: 100vh;
+  background: linear-gradient(135deg, #2a0000, #1a1a1a);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.hero-content h2 {
+  font-size: 3rem;
+  color: #ff1a1a;
+  margin-bottom: 0.5rem;
+}
+
+.hero-content p {
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+/* ==== Sektionen ==== */
+section {
+  padding: 5rem 2rem;
+  max-width: 900px;
+  margin: auto;
+}
+
+h2 {
+  color: #ff1a1a;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  border-bottom: 2px solid #b30000;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
+/* ==== Projekte ==== */
+.project {
+  background-color: #2b2b2b;
+  border-left: 4px solid #b30000;
+  padding: 1.2rem 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.project:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+}
+
+.project h3 {
+  color: #ff4d4d;
+  margin-bottom: 0.3rem;
+}
+
+.project a {
+  color: #ff1a1a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.project a:hover {
+  text-decoration: underline;
+}
+
+/* ==== Kontakt ==== */
+#contact ul {
+  list-style: none;
+  margin-top: 1rem;
+}
+
+#contact a {
+  color: #ff4d4d;
+  text-decoration: none;
+}
+
+#contact a:hover {
+  text-decoration: underline;
+}
+
+/* ==== Footer ==== */
+footer {
+  background-color: #2a0000;
+  text-align: center;
+  padding: 1.5rem;
+  color: #999;
+  font-size: 0.9rem;
+  margin-top: 3rem;
+}
