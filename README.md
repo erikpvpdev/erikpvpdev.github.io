@@ -33,7 +33,7 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 Wenn du meine Mods magst oder Fragen hast:
 
 - 💬 **Discord:** `erikdev1_`
-- 🌐 **Website:** [erikpvp-dev.github.io](https://erikpvpdev.github.io)
+- 🌐 **Website:** [erikpvpdev.github.io](https://erikpvpdev.github.io)
 - 📦 **Modrinth:** *https://modrinth.com/user/erikpvpdev*
 
 ---
