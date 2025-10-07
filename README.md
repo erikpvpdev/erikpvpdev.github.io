@@ -1,4 +1,4 @@
-# erikpvpdev.github.io
+# 🧱 **erikpvpdev.github.io**
 
 Hey 👋  
 Ich bin **Erik**, ein leidenschaftlicher **Minecraft-Mod-Entwickler**, der gerne neue Ideen, Biome, Strukturen und Blöcke in die Welt von Minecraft bringt.  
@@ -7,10 +7,10 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 ---
 
 ## 🧩 Über mich
-- 🔨 Ich entwickle **Minecraft Mods** mit **Java** und **Minecraft Forge**
-- 🌍 Ich liebe es, eigene Welten, Erze, Biome und Strukturen zu erschaffen
-- 💡 Ich lerne ständig neue Dinge über **Modding**, **Texturen** und **Game Design**
-- 🎮 Minecraft ist für mich mehr als nur ein Spiel – es ist eine kreative Plattform
+- 🔨 Ich entwickle **Minecraft-Mods** mit **Java** und der **Minecraft Forge API**  
+- 🌍 Ich liebe es, eigene Welten, Erze, Biome und Strukturen zu erschaffen  
+- 💡 Ich lerne ständig Neues über **Modding**, **Texturen** und **Game Design**  
+- 🎮 Minecraft ist für mich mehr als nur ein Spiel – es ist meine kreative Plattform  
 
 ---
 
@@ -18,13 +18,13 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 
 | **Enderrite Mod** | Fügt ein neues Erz, ein eigenes Biom und neue Strukturen hinzu | 🔧 In Entwicklung |
 
-| **Titan Mod** | Minecraft PvP Mod Inspiriert vom Youtuber Projekt *Titan*| 🔧 In Entwicklung |
+| **Titan Mod** | Minecraft PvP Mod inspiriert vom YouTuber-Projekt *Titan* | 🔧 In Entwicklung |
 
 ---
 
 ## ⚙️ Werkzeuge & Sprachen
-- ☕ **Java**
-- 🖥️ **IntelliJ IDEA**
+- ☕ **Java**  
+- 🖥️ **IntelliJ IDEA**  
 - 🧰 **Minecraft Forge API**
 
 ---
@@ -32,9 +32,9 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 ## 📫 Kontakt
 Wenn du meine Mods magst oder Fragen hast:
 
-- 💬 **Discord:** `erikdev1_`
-- 🌐 **Website:** [erikpvpdev.github.io](https://erikpvpdev.github.io)
-- 📦 **Modrinth:** *https://modrinth.com/user/erikpvpdev*
+- 💬 **Discord:** `erikdev1_`  
+- 🌐 **Website:** [erikpvpdev.github.io](https://erikpvpdev.github.io)  
+- 📦 **Modrinth:** [modrinth.com/user/erikpvpdev](https://modrinth.com/user/erikpvpdev)
 
 ---
 
