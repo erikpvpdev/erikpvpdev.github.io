@@ -20,6 +20,8 @@ Auf meinem GitHub findest du meine Projekte, Experimente und Mods für verschied
 
 | **Titan Mod** | Minecraft PvP Mod inspiriert vom YouTuber-Projekt *Titan* | 🔧 In Entwicklung |
 
+**Titan Mod:** https://github.com/erikpvpdev/Titan-Neo-1.21.X
+
 ---
 
 ## ⚙️ Werkzeuge & Sprachen
